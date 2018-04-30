@@ -19,4 +19,4 @@ a1<-array(1:18,dim=c(3,3,2))
 
 #5) 리스트를 사용해 벡터, 행렬, 어레이 결합
 result<-list(v1,m1,a1)
-result
+result 
